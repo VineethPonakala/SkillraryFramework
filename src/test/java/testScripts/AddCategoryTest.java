@@ -7,7 +7,8 @@ import org.testng.asserts.SoftAssert;
 
 import genericUtilities.BaseClass;
 import genericUtilities.IConstantPath;
-// Added Comment To Add Category
+
+//Added Comment To Add Category
 
   public class AddCategoryTest extends BaseClass {
    @Test
